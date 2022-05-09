@@ -2,9 +2,9 @@
 
 소프트웨어 마에스트로 13기 컨퍼런스(22.05.10) 발표자료
 
-[발표 PDF 다운로드](https://drive.google.com/file/d/1LY5bJWCtG0uLQcnpuvJCNJd-sCCSnxZs/view?usp=sharing)
+[발표 Keynote 다운로드](https://drive.google.com/file/d/1TiWHva9JohjZgnCU__LpNYrb5fXhdYno/view?usp=sharing)
 
-[발표 Keynote 다운로드](https://drive.google.com/file/d/1NFkZx76LgXMEGMNE18ttor3VYQvX8hMn/view?usp=sharing)
+[발표 PDF 다운로드](https://drive.google.com/file/d/11Lz_zGUlxcHrNb4YqmOURon4W420hM6q/view?usp=sharing)
 
 ## 참고
 
