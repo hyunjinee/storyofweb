@@ -14,3 +14,4 @@
 - [CSR & SSR 신세한탄님 테코톡](https://www.youtube.com/watch?v=YuqB8D6eCKE)
 - [SPA vs MPA와 SSR vs CSR 장단점 뜻정리](https://hanamon.kr/spa-mpa-ssr-csr-%EC%9E%A5%EB%8B%A8%EC%A0%90-%EB%9C%BB%EC%A0%95%EB%A6%AC/)
 - [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
+- [Universal Server Side Rendering이란?](https://evan-moon.github.io/2018/09/25/universal-ssr/)
