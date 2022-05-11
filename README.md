@@ -1,5 +1,7 @@
 # 웹은 어떻게 발전했는가
 
+![소마컨퍼런스_현진님 (1)](https://user-images.githubusercontent.com/63354527/167850114-54e37792-224d-4dee-8817-b3f5118445bf.jpg)
+
 소프트웨어 마에스트로 13기 컨퍼런스(22.05.10) 발표자료
 
 [발표 Keynote 다운로드](https://drive.google.com/file/d/1TiWHva9JohjZgnCU__LpNYrb5fXhdYno/view?usp=sharing)
